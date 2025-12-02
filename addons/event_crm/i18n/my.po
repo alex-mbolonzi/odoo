@@ -3,13 +3,14 @@
 # * event_crm
 #
 # Oakarmin Iron <oakarminiron@gmail.com>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-26 08:55+0000\n"
-"PO-Revision-Date: 2025-08-29 15:41+0000\n"
-"Last-Translator: Oakarmin Iron <oakarminiron@gmail.com>\n"
+"PO-Revision-Date: 2025-11-21 06:43+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Burmese <https://translate.odoo.com/projects/odoo-18/"
 "event_crm/my/>\n"
 "Language: my\n"
@@ -49,13 +50,13 @@ msgstr ""
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__active
 msgid "Active"
-msgstr ""
+msgstr "အက်တစ်"
 
 #. module: event_crm
 #: model_terms:ir.ui.view,arch_db:event_crm.event_lead_rule_view_form
 #: model_terms:ir.ui.view,arch_db:event_crm.event_lead_rule_view_search
 msgid "Archived"
-msgstr ""
+msgstr "သိမ်းဆည်းထားသည်"
 
 #. module: event_crm
 #: model:ir.model.fields.selection,name:event_crm.selection__event_lead_rule__lead_creation_trigger__create
@@ -96,7 +97,7 @@ msgstr ""
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__company_id
 msgid "Company"
-msgstr ""
+msgstr "ကုမ္ပဏီ"
 
 #. module: event_crm
 #: model:ir.model.fields,help:event_crm.field_crm_lead__registration_count
@@ -106,7 +107,7 @@ msgstr ""
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__lead_creation_basis
 msgid "Create"
-msgstr ""
+msgstr "အသစ်ဖန်တီး"
 
 #. module: event_crm
 #: model_terms:ir.actions.act_window,help:event_crm.event_lead_rule_action
@@ -150,14 +151,14 @@ msgstr ""
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_request__display_name
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "ပြသသော အမည်"
 
 #. module: event_crm
 #: model:ir.model,name:event_crm.model_event_event
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_request__event_id
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__event_id
 msgid "Event"
-msgstr ""
+msgstr "ပွဲ"
 
 #. module: event_crm
 #: model:ir.actions.server,name:event_crm.ir_cron_generate_leads_ir_actions_server
@@ -238,7 +239,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_request__id
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__id
 msgid "ID"
-msgstr ""
+msgstr "အိုင်ဒီ"
 
 #. module: event_crm
 #: model_terms:ir.ui.view,arch_db:event_crm.event_lead_rule_view_form
@@ -248,12 +249,12 @@ msgstr ""
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "နောက်ဆုံးပြင်ဆင်သူ"
 
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "နောက်ဆုံးပြင်ဆင်ချိန်"
 
 #. module: event_crm
 #: model:ir.model.fields.selection,name:event_crm.selection__event_lead_rule__lead_type__lead
@@ -303,7 +304,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:event_crm.field_event_registration__lead_ids
 #: model_terms:ir.ui.view,arch_db:event_crm.event_view_form
 msgid "Leads"
-msgstr ""
+msgstr "ဖောက်သည်လောင်းများ"
 
 #. module: event_crm
 #: model:ir.model.fields,help:event_crm.field_event_event__lead_ids
@@ -313,7 +314,7 @@ msgstr ""
 #. module: event_crm
 #: model_terms:ir.ui.view,arch_db:event_crm.event_lead_rule_view_search
 msgid "Name"
-msgstr ""
+msgstr "အမည်"
 
 #. module: event_crm
 #. odoo-python
@@ -346,7 +347,7 @@ msgstr ""
 #. module: event_crm
 #: model:ir.model.fields.selection,name:event_crm.selection__event_lead_rule__lead_type__opportunity
 msgid "Opportunity"
-msgstr ""
+msgstr "အခွင့်အလမ်း"
 
 #. module: event_crm
 #. odoo-python
@@ -421,12 +422,12 @@ msgstr ""
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__lead_sales_team_id
 msgid "Sales Team"
-msgstr ""
+msgstr "အရောင်း အဖွဲ့"
 
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__lead_user_id
 msgid "Salesperson"
-msgstr ""
+msgstr "အရောင်းသမား"
 
 #. module: event_crm
 #: model_terms:ir.ui.view,arch_db:event_crm.event_lead_rule_view_search
@@ -451,7 +452,7 @@ msgstr ""
 #. module: event_crm
 #: model:ir.model.fields,field_description:event_crm.field_event_lead_rule__lead_tag_ids
 msgid "Tags"
-msgstr ""
+msgstr "တက်ဂ်များ"
 
 #. module: event_crm
 #: model:ir.model.fields,help:event_crm.field_event_lead_request__processed_registration_id
